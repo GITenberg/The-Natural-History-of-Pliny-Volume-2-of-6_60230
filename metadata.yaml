@@ -1,5 +1,5 @@
 _repo: The-Natural-History-of-Pliny-Volume-2-of-6_60230
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Riley, Henry T. (Henry Thomas)
@@ -16,6 +16,9 @@ contributor:
     gutenberg_agent_id: '49421'
     url: http://www.gutenberg.org/2009/agents/49421
     wikipedia: https://en.wikipedia.org/wiki/John_Bostock_(physician)
+covers:
+- cover_type: archival
+  image_path: 60230-h/images/cover.jpg
 creator:
   author:
     agent_name: Pliny, the Elder
@@ -30,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50041
     wikipedia: https://en.wikipedia.org/wiki/Pliny_the_Elder
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60230#The-Natural-History-of-Pliny-Volume-2-of-6
 gutenberg_issued: '2019-09-03'
 gutenberg_type: Text
 identifiers:
